@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>binepals</sys_created_by>
+        <sys_created_on>2019-12-28 17:50:19</sys_created_on>
+        <sys_id>eb40b6b4db0a801036b9f53a29961977</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_eb40b6b4db0a801036b9f53a29961977</sys_update_name>
+        <sys_updated_by>binepals</sys_updated_by>
+        <sys_updated_on>2019-12-28 17:50:37</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Make fields read-only on close">4dff62b4db0a801036b9f53a2996192b</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b65f38c0dbfbd74c6578f22ebf961914</instance_id>
+        <instance_name>dev68639</instance_name>
+        <name>sys_ui_policy_action_eb40b6b4db0a801036b9f53a29961977</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>state</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>binepals</sys_created_by><sys_created_on>2019-12-28 17:50:19</sys_created_on><sys_id>eb40b6b4db0a801036b9f53a29961977</sys_id><sys_mod_count>1</sys_mod_count><sys_name>state</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_eb40b6b4db0a801036b9f53a29961977</sys_update_name><sys_updated_by>binepals</sys_updated_by><sys_updated_on>2019-12-28 17:50:37</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Make fields read-only on close">4dff62b4db0a801036b9f53a2996192b</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1064734131</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>8a385274db02801036b9f53a29961936</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>binepals</sys_created_by>
+        <sys_created_on>2019-12-28 17:50:37</sys_created_on>
+        <sys_id>cc807ab4db0a801036b9f53a29961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f4da1a7ea0000001</sys_recorded_at>
+        <sys_updated_by>binepals</sys_updated_by>
+        <sys_updated_on>2019-12-28 17:50:37</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>48807ab46b0a8010f31516362f118592</update_guid>
+        <update_guid_history>48807ab46b0a8010f31516362f118592:1064734131,6b603ab4be0a8010cf9df8723c821a5d:-1116073601</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>binepals</sys_created_by>
+        <sys_created_on>2019-12-28 17:57:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>037c2600f73d447e800ce62c8182c124</sys_id>
+        <sys_metadata>eb40b6b4db0a801036b9f53a29961977</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_eb40b6b4db0a801036b9f53a29961977</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_eb40b6b4db0a801036b9f53a29961977">cc807ab4db0a801036b9f53a29961992</sys_update_version>
+        <sys_updated_by>binepals</sys_updated_by>
+        <sys_updated_on>2019-12-28 17:57:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
